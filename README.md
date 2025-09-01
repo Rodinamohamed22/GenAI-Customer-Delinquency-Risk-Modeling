@@ -2,7 +2,7 @@
 📑 [View Presentation on Google Drive](https://docs.google.com/presentation/d/1rfQiqvbi8Mug8rDwC-uOxMnyVqmHQ69R/edit?pli=1&slide=id.p1#slide=id.p1)
 
 This repository contains my project completed during the **Forage Virtual Internship**.  
-The goal was to design a no-code predictive modeling framework using **Generative AI** to evaluate customer delinquency risk.  
+The goal was to design a no-code predictive modeling framework using **Generative AI** to solve customer delinquency risk ( late payments issues ).  
 
 ## 🔑 Key Features
 - Collected and explored important variables automatically
