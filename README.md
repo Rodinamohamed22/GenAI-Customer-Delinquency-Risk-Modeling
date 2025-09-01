@@ -20,3 +20,4 @@ The official certificate of completion is included in this repository.
 
 ## 🚀 About
 This project demonstrates the application of **Generative AI** for social and financial data analysis, with a focus on scalable, ethical, and effective debt management strategies.  
+   
