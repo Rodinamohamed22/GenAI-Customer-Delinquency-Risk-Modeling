@@ -1,6 +1,9 @@
 # GenAI Project for Customer Delinquency Risk Modeling  
 📑 [View Presentation on Google Drive](https://docs.google.com/presentation/d/1rfQiqvbi8Mug8rDwC-uOxMnyVqmHQ69R/edit?pli=1&slide=id.p1#slide=id.p1)
 
+## As part of a virtual internship project, I worked on a case study for the fictional company  "Geldium" . 
+The task was to solve late payment issues using Generative AI. I built a framework to predict delinquency risk, identify key reasons for delays, and suggest fair, AI-driven strategies to improve repayment rates.
+
 This repository contains my project completed during the **Forage Virtual Internship**.  
 The goal was to design a no-code predictive modeling framework using **Generative AI** to solve customer delinquency risk ( late payments issues ).  
 
