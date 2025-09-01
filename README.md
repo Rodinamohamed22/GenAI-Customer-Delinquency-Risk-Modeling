@@ -5,10 +5,9 @@ This repository contains my project completed during the **Forage Virtual Intern
 The goal was to design a no-code predictive modeling framework using **Generative AI** to evaluate customer delinquency risk.  
 
 ## 🔑 Key Features
-- Automated feature selection and model logic  
-- Performance measured through key classification metrics (accuracy, precision, recall, F1)  
-- Ethical AI and compliance considerations  
-- Proposed AI-driven collections strategy  
+- Collected and explored important variables automatically
+- Suggested an AI-based and fair strategy for collections
+- Checked how well the model works using main classification metrics 
 
 ## 📂 Repository Contents
 - `notebooks/` → Jupyter Notebook(s) for model logic and evaluation  
