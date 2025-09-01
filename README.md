@@ -17,7 +17,7 @@ The goal was to design a no-code predictive modeling framework using **Generativ
 - `README.md` → Project overview  
 
 ## 📜 Certificate
-The official certificate of completion is included in this repository. ( https://drive.google.com/file/d/1c9iiKko-tMdEAMw44TUClfEFbB60Nihy/view?usp=sharing ) 
+The official certificate of completion is included in this repository. ( https://drive.google.com/file/d/1c9iiKko-tMdEAMw44TUClfEFbB60Nihy/view?usp=sharing )  
 
 ## 🚀 About
 This project demonstrates the application of **Generative AI** for social and financial data analysis, with a focus on scalable, ethical, and effective debt management strategies.  
